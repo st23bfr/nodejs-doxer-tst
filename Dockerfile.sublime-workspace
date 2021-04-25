@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"author"
+			],
+			[
+				"on",
+				"onUpdateUser"
+			],
+			[
+				"o",
+				"onUpdateUser"
+			],
+			[
+				"u",
+				"updateUser"
+			],
+			[
+				"map",
+				"mapActionsToProps"
+			],
+			[
+				"P",
+				"Projects"
+			],
+			[
+				"Ci",
+				"CircleContainer"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"hou",
+				"hoursCompleted"
+			],
+			[
+				"new",
+				"newDataArray"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"sp",
+				"spreadsheets"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ellio/Projects/theesday/src/App.js",
+		"/home/ellio/Projects/twitter-api-usage/public/index.html",
+		"/home/ellio/Projects/twitter-api-usage/src/App.js",
+		"/home/ellio/Projects/test.js",
+		"/home/ellio/Projects/react-redux-chess/src/actions/index.js",
+		"/home/ellio/Projects/reduxt/src/index.js",
+		"/home/ellio/Projects/reduxt/src/App.js",
+		"/home/ellio/Projects/reduxt/src/actions/user-actions.js",
+		"/home/ellio/Projects/reduxt/src/reducers/user-reducer.js",
+		"/home/ellio/Projects/new-mef/README.md",
+		"/home/ellio/Projects/new-mef/src/components/Projects.jsx",
+		"/home/ellio/Projects/new-mef/src/components/Posts.jsx",
+		"/home/ellio/Projects/new-mef/src/components/marker.css",
+		"/home/ellio/Projects/new-mef/src/components/marker.jsx",
+		"/home/ellio/Projects/new-mef/src/components/Contacts.css",
+		"/home/ellio/Projects/new-mef/src/components/Contacts.jsx",
+		"/home/ellio/Projects/new-mef/src/components/Posts.css",
+		"/home/ellio/Projects/new-mef/src/components/Main.jsx",
+		"/home/ellio/Projects/new-mef/src/components/Prices.jsx",
+		"/home/ellio/Projects/new-mef/src/components/Prices.css",
+		"/home/ellio/Projects/new-mef/src/components/Projects.css",
+		"/home/ellio/Projects/mighty-lowlands-68047/src/components/Projects.jsx",
+		"/home/ellio/Projects/new-mef/src/components/TextWithImage.css",
+		"/home/ellio/Projects/new-mef/src/components/TextWithImage.jsx",
+		"/home/ellio/Projects/new-mef/src/components/About.jsx",
+		"/home/ellio/Projects/sheets-api-project/index.js",
+		"/home/ellio/Projects/new-mef/src/components/About.css",
+		"/home/ellio/Projects/new-mef/src/components/CircleContainer.css",
+		"/home/ellio/Projects/new-mef/src/components/CircleContainer.jsx",
+		"/home/ellio/Projects/new-mef/src/components/HomeServices.jsx",
+		"/home/ellio/Projects/new-mef/src/components/HomeServices.css",
+		"/home/ellio/Projects/new-mef/src/components/Home.jsx",
+		"/home/ellio/Projects/new-mef/src/App.js",
+		"/home/ellio/Projects/new-mef/src/components/HomeStart.jsx",
+		"/home/ellio/Projects/new-mef/src/components/HomeStart.css",
+		"/home/ellio/Projects/new-mef/src/components/Main.css",
+		"/home/ellio/Projects/new-mef/src/components/ContactListMini.css",
+		"/home/ellio/Projects/new-mef/src/components/Navbar.css",
+		"/home/ellio/Projects/new-mef/src/components/Navbar.jsx",
+		"/home/ellio/Projects/new-mef/src/components/Header.jsx",
+		"/home/ellio/Projects/new-mef/src/components/ContactListMini.jsx",
+		"/home/ellio/Projects/new-mef/src/components/Footer.css",
+		"/home/ellio/Projects/new-mef/src/components/Footer.jsx",
+		"/home/ellio/Projects/new-mef/src/components/Header.css",
+		"/home/ellio/Projects/new-mef/public/index.html",
+		"/home/ellio/Projects/new-mef/src/etc/contactData.json",
+		"/home/ellio/.cache/.fr-V584sU/9233908.txt",
+		"/home/ellio/Projects/mighty-lowlands-68047/src/App.css",
+		"/home/ellio/Projects/mighty-lowlands-68047/src/index.css",
+		"/home/ellio/Projects/mighty-lowlands-68047/README.md",
+		"/home/ellio/Projects/mighty-lowlands-68047/src/components/HomeStart.js",
+		"/home/ellio/Projects/mefultra/src/components/Home/Home.js",
+		"/home/ellio/Projects/mefultra/src/App.js",
+		"/home/ellio/Projects/mefultra/src/components/header-footer/HeaderFooter.js",
+		"/home/ellio/Projects/mefultra/package.json",
+		"/home/ellio/Projects/sheets-api-project/docs-keys.json",
+		"/home/ellio/Projects/sheets-api-project/main.js",
+		"/home/ellio/Projects/newTestWS/track.js",
+		"/home/ellio/Projects/sheets-api-project/newfile",
+		"/home/ellio/Projects/sheets-api-project/keys.json",
+		"/home/ellio/Projects/newTestWS/index.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Dockerfile.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
